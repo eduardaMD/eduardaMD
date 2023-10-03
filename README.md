@@ -32,11 +32,7 @@ My primary skills include:
 In this repository, you'll find projects and challenges related to web development. I'm committed to improving my skills and sharing my progress here. Feel free to explore the projects and provide feedback.
 
 Thank you for visiting my profile and being a part of my growth journey as a programmer. Let's learn and evolve together!
-## social
-<div>
-    <a href="https://www.instagram.com/wseduarda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/eduarda-marques-2407aa225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ55L4t%2BOQp%2B6UEqH8ThQlw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
 
 
 
